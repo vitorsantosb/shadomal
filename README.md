@@ -4,6 +4,19 @@
    > Currently I am 20 years old, I am a full stack programmer, my academic training is at IESB college in brasilia in the course of game development.
   #### What are my hobbies?
    > I love to play games in my spare time, I like to research the news in the technology world, study new things related to my area and others.
+  #### My Courses and certificates
+  
+   >  - INSTITUTE FOR SOCIAL AND HUMAN SCIENCES
+         - COMPUTER SCIENCE IN EDUCATION - 180h
+         - Finished Year: 2020
+         
+   >  - SECRETARY OF STATE FOR SUSTAINABLE DEVELOPMENT
+        - SANTA CATARINA GAMES - ANIMA JAM - 30h
+        - Finished Year: 2021
+        
+   >  - UDEMY
+        - 3D games with Unity
+        - Finished Year: 2021
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 ## My Works
   - HandGun(collage work) Function backend programmer and front end programmer. [repository](https://github.com/shadomal/handgun)
