@@ -23,7 +23,7 @@
   - SonyVegas Pro 16 - Average Knowledge
   - English - basic
   
-  # Soft
+  ## 👨🏻‍🔧 Soft
   - 🥇Leadership
   - 🤝Sociable
   - 👊Proactivity
