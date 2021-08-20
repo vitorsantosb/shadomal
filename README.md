@@ -34,7 +34,7 @@
   - Programming Bots of Discord - Intermediate
   - Design with Adobe Photoshop - Intermediate knowledge
   - SonyVegas Pro 16 - Average Knowledge
-  - 
+  
   ## 👨🏻‍🔧 Soft
   - 🥇Leadership
   - 🤝Sociable
