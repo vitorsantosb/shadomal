@@ -34,14 +34,17 @@
   - Programming Bots of Discord - Intermediate
   - Design with Adobe Photoshop - Intermediate knowledge
   - SonyVegas Pro 16 - Average Knowledge
-  - English - basic
-  
+  - 
   ## 👨🏻‍🔧 Soft
   - 🥇Leadership
   - 🤝Sociable
   - 👊Proactivity
   - 👋Generous
   - ✍️Participative
+  
+  ## Language
+  - My native tongue is Brazilian Portuguese, so my English isn't the best, so bear with me if we do chat in English.
+  
 >-------------------------------------------------------------------------------------------------------------------------------------------------------
 # 📬 Contact
  - 📧 Email - (vitor.santos2000@cciweb.com.br | shadomal1990@gmail.com)
