@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Vitor Batista \o/
 
 ## About me
-   > Currently I am 20 years old, I am a full stack programmer, my academic training is at IESB college in brasilia in the course of game development.
+   > Currently i'm 20 years old, i'm specializing to be a good fullstack programmer, i'm graduated in game development at iesb institution in Brasília.
   #### What are my hobbies?
    > I love to play games in my spare time, I like to research the news in the technology world, study new things related to my area and others.
   #### My Courses and certificates
