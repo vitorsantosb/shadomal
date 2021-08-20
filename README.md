@@ -43,7 +43,6 @@
   - ✍️Participative
   
   ## Languages
-  🇧🇷 🇺🇸
   - My native tongue is Brazilian Portuguese, so my English isn't the best, so bear with me if we do chat in English.
   
 >-------------------------------------------------------------------------------------------------------------------------------------------------------
