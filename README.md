@@ -19,9 +19,9 @@
         - Finished Year: 2021
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 ## My Works
-  - HandGun(collage work) Function backend programmer and front end programmer. [repository](https://github.com/shadomal/handgun)
+  - HandGun(collage work) Function backend programmer and front end programmer with unity. [repository](https://github.com/shadomal/handgun)
   - Miyuki Shiba Discord Bot Application(personal application), function backand and frontend programmer - Private repository
-
+  - Sea Wars(GameJam Game) Function backend programmer and front end programmer with unity. [repository](https://github.com/shadomal/boat-game)
 ## 🏆 Skills
   
   ## 🛠 Hard
