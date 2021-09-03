@@ -28,7 +28,7 @@
   - Unity C#
   - WEB Development - Basic Knowledge
   - Programming Languages: JavaScript, C#
-  - DataBases: MySql language.
+  - DataBases: MySql language - Learning
   - FrameWorks: node-fetch, node js, express, discord js
   - Markup Languages: HTML, CSS - Intermediate
   - Programming Bots of Discord - Intermediate
