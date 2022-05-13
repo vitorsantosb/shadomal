@@ -26,7 +26,7 @@
   
   ## 🛠 Hard
   - Unity C#
-  - WEB Development - Basic Knowledge
+  - WEB Development - intermediate
   - Programming Languages: JavaScript, C#
   - DataBases: MySql language - Learning
   - FrameWorks: node-fetch, node js, express, discord js
