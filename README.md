@@ -22,17 +22,16 @@
   - HandGun(collage work) Function backend programmer and front end programmer with unity. [repository](https://github.com/shadomal/handgun)
   - Miyuki Shiba Discord Bot Application(personal application), function backand and frontend programmer - Private repository
   - Sea Wars(Brackeys GameJam) Function backend programmer and front end programmer with unity. [repository](https://github.com/shadomal/boat-game)
+  
 ## 🏆 Skills
   
   ## 🛠 Hard
-  - Unity C#
-  - WEB Development - intermediate
+  - Unity C# - GameDevelopment
+  - WEB Development with HTML, CSS
   - Programming Languages: JavaScript, C#
   - DataBases: MySql language - Learning
-  - FrameWorks: node-fetch, node js, express, discord js
-  - Markup Languages: HTML, CSS - Intermediate
-  - Programming Bots of Discord - Intermediate
-  - Design with Adobe Photoshop - Intermediate knowledge
+  - FrameWorks: node-fetch, node js, express, discord.js
+  - Programming Bots for Discord
   
   ## 👨🏻‍🔧 Soft
   - 🥇Leadership
@@ -42,7 +41,7 @@
   - ✍️Participative
   
   ## Languages
-  - My native tongue is Brazilian Portuguese, my english level is beggin.
+  - My native tongue is Brazilian Portuguese, my english level is intermediate.
   
 >-------------------------------------------------------------------------------------------------------------------------------------------------------
 # 📬 Contact
