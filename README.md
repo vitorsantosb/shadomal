@@ -1,4 +1,5 @@
-### Hi there 👋 I am Vitor Batista \o/
+
+ ### Hi there 👋 I am Vitor Batista \o/
 
 ## About me
    > Hello ! My name is Vitor Batista, AKA Shadomal, currently I'm 20 years old. I have a Major in Game Development at IESB in Brasilia-DF and at the moment I'm specializing to be a good full stack programmer.
@@ -18,6 +19,14 @@
         - 3D games with Unity
         - Finished Year: 2021
 -------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<div align="center">
+  <a href="https://github.com/shadomal">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shadomal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadomal&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
 ## My Works
   - HandGun(collage work) Function backend programmer and front end programmer with unity. [repository](https://github.com/shadomal/handgun)
   - Miyuki Shiba Discord Bot Application(personal application), function backand and frontend programmer - Private repository
