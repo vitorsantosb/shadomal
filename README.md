@@ -6,7 +6,11 @@
   #### What are my hobbies?
    > I love to play games in my spare time, I like to research the news in the technology world, study new things related to my area and others.
   #### My Courses and certificates
-  
+   
+   >  - Complete Collage Graduation - IESB SUL COLLAGE GRADUATION Digital Games
+         - Start Year - 2019
+         - Finish Year - 2021
+         
    >  - INSTITUTE FOR SOCIAL AND HUMAN SCIENCES
          - COMPUTER SCIENCE IN EDUCATION - 180h
          - Finished Year: 2020
@@ -31,17 +35,36 @@
   - HandGun(collage work) Function backend programmer and front end programmer with unity. [repository](https://github.com/shadomal/handgun)
   - Miyuki Shiba Discord Bot Application(personal application), function backand and frontend programmer - Private repository
   - Sea Wars(Brackeys GameJam) Function backend programmer and front end programmer with unity. [repository](https://github.com/shadomal/boat-game)
-  
+  - Adbot (bmsystems company) Function Developer Tech Leader and Back-end FullStack Programmer. - Private Repository [WebSite](https://bmsystems.com.br/)
+ 
 ## 🏆 Skills
   
   ## 🛠 Hard
-  - Unity C# - GameDevelopment
-  - WEB Development with HTML, CSS
-  - Programming Languages: JavaScript, C#
-  - DataBases: MySql language - Learning
-  - FrameWorks: node-fetch, node js, express, discord.js
-  - Programming Bots for Discord
-  
+    -Programming Languages: 
+      - C#(UNITY GAME DEV) 
+      - TypeScript(Learning) 
+      - PHP(Learning) 
+      - JavaScript(NODE.JS)
+      
+    -DataBase Skills
+       - DataBases: PostgreSQL, MySql
+       - FrameWorks work in db: express, bcrypt, jsonwebtoken, morgan, node-fetch, Laravel(9.0)
+       - DataBase Diagram Create Process.
+       - DataBase Construction API(With Laravel and empty project for full API)
+      
+    -Software Infrastructure
+      - API Documentation
+      - Create API Diagram and Software Diagram(flowchart and organization chart) with Figma
+      - GitHub Project Issues and work goals
+      - Tech Leader - Works with Team Manager and fullStack back-end Programmer constructing all aplication struct
+      - Agile Method Scrum
+ 
+    - Front-end Skills
+      - HTML, CSS, JS
+      - FrameWorks: NodeMailer.
+      - Back-end: automatic email sender
+ 
+      
   ## 👨🏻‍🔧 Soft
   - 🥇Leadership
   - 🤝Sociable
