@@ -76,6 +76,6 @@
   
 >-------------------------------------------------------------------------------------------------------------------------------------------------------
 # 📬 Contact
- - 📧 Email - (vitor.santos2000@cciweb.com.br | shadomal1990@gmail.com)
+ - 📧 Email - (vitorsantospessoal444@gmail.com)
  - 🔗 Linkedin [Vitor Batista](https://www.linkedin.com/in/vitor-batista-36a159210/)
  - WhatsApp - 61 995770148
