@@ -33,9 +33,8 @@
 
 ## My Works
   - HandGun(collage work) Function backend programmer and front end programmer with unity. [repository](https://github.com/shadomal/handgun)
-  - Miyuki Shiba Discord Bot Application(personal application), function backand and frontend programmer - Private repository
+  - Miyuki Shiba Discord Bot Application(personal application), function backand and frontend programmer
   - Sea Wars(Brackeys GameJam) Function backend programmer and front end programmer with unity. [repository](https://github.com/shadomal/boat-game)
-  - Adbot (bmsystems company) Function Developer Tech Leader and Back-end FullStack Programmer. - Private Repository [WebSite](https://bmsystems.com.br/)
  
 ## 🏆 Skills
   
