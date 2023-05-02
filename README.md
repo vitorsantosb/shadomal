@@ -35,6 +35,7 @@
   - HandGun(collage work) Function backend programmer and front end programmer with unity. [repository](https://github.com/shadomal/handgun)
   - Miyuki Shiba Discord Bot Application(personal application), function backand and frontend programmer
   - Sea Wars(Brackeys GameJam) Function backend programmer and front end programmer with unity. [repository](https://github.com/shadomal/boat-game)
+  - RPG DISCORD BOT - My personal project using all my skills with development [repository](https://github.com/shadomal/rpg-discord)
  
 ## 🏆 Skills
   
