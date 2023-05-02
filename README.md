@@ -46,7 +46,7 @@
       - JavaScript(NODE.JS)
       
     -DataBase Skills
-       - DataBases: PostgreSQL, MySql
+       - DataBases: PostgreSQL, MySql, MongoDb
        - FrameWorks work in db: express, bcrypt, jsonwebtoken, morgan, node-fetch, Laravel(9.0)
        - DataBase Diagram Create Process.
        - DataBase Construction API(With Laravel and empty project for full API)
