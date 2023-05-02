@@ -39,29 +39,29 @@
 ## 🏆 Skills
   
   ## 🛠 Hard
-    -Programming Languages: 
-      - C#(UNITY GAME DEV) 
-      - TypeScript(Learning) 
-      - PHP(Learning) 
-      - JavaScript(NODE.JS)
-      
-    -DataBase Skills
-       - DataBases: PostgreSQL, MySql, MongoDb
-       - FrameWorks work in db: express, bcrypt, jsonwebtoken, morgan, node-fetch, Laravel(9.0)
-       - DataBase Diagram Create Process.
-       - DataBase Construction API(With Laravel and empty project for full API)
-      
-    -Software Infrastructure
-      - API Documentation
-      - Create API Diagram and Software Diagram(flowchart and organization chart) with Figma
-      - GitHub Project Issues and work goals
-      - Tech Leader - Works with Team Manager and fullStack back-end Programmer constructing all aplication struct
-      - Agile Method Scrum
- 
-    - Front-end Skills
-      - HTML, CSS, JS
-      - FrameWorks: NodeMailer.
-      - Back-end: automatic email sender
+  -Programming Languages: 
+  - C#(UNITY GAME DEV) 
+  - TypeScript(Learning) 
+  - PHP(Learning) 
+  - JavaScript(NODE.JS)
+  
+-DataBase Skills
+   - DataBases: PostgreSQL, MySql, MongoDb
+   - FrameWorks work in db: express, bcrypt, jsonwebtoken, morgan, node-fetch, Laravel(9.0)
+   - DataBase Diagram Create Process.
+   - DataBase Construction API(With Laravel and empty project for full API)
+  
+-Software Infrastructure
+  - API Documentation
+  - Create API Diagram and Software Diagram(flowchart and organization chart) with Figma
+  - GitHub Project Issues and work goals
+  - Tech Leader - Works with Team Manager and fullStack back-end Programmer constructing all aplication struct
+  - Agile Method Scrum
+
+- Front-end Skills
+  - HTML, CSS, JS
+  - FrameWorks: NodeMailer.
+  - Back-end: automatic email sender
  
       
   ## 👨🏻‍🔧 Soft
