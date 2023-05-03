@@ -24,13 +24,6 @@
         - Finished Year: 2021
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<div align="center">
-  <a href="https://github.com/shadomal">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shadomal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadomal&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-
 ## My Works
   - HandGun(collage work) Function backend programmer and front end programmer with unity. [repository](https://github.com/shadomal/handgun)
   - Miyuki Shiba Discord Bot Application(personal application), function backand and frontend programmer
